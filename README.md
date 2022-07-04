@@ -6,4 +6,4 @@ Answer
 I would use the command <git pull> to have locally all the recently changes from others dev and prevent possible conflict.
 
     b. What merge method would you use and why?
-I would use <git merge> command to merge the changes. This is the usually way to do it, and It use the recursive method. 
+I would use <git merge> command to merge the changes. This is the usually way to do it, and It use the Fast-forward method. 
